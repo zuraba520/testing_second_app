@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 class StartScreen extends StatelessWidget {
   const StartScreen( this.startQuiz, {super.key});
 
@@ -17,7 +16,7 @@ class StartScreen extends StatelessWidget {
             color: Colors.white70,
           ),
           const SizedBox(height: 80),
-          const Text( // ლოგოს ქვევითა წარწერა,ზომა,ფერი
+          const Text( // es  aris mtavari gverdi iswavle flateri gasartobi gzita
             'Learn Flutter the fun way!',
             style: TextStyle(
               color: Colors.white,
